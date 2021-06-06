@@ -1,3 +1,9 @@
-SQL Database Project
+# ITCS 1170 - SQL Database Project
 
-The purpose of this project was to design and build a database from conceptualization to creating the ERD to writing SQL scripts to create, insert, and query the db using SQL Server.
+Project objectives:
+
+Group project. Design and build a database using SQL and SQL Server.
+
+- Develop database concept
+- Create db ERD
+- Write SQL scripts to create, insert, and query the db
